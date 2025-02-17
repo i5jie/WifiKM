@@ -1,8 +1,5 @@
 # WifiKM - 微控键鼠
 
-![GitHub](https://img.shields.io/github/license/your-repo-name) 
-![GitHub stars](https://img.shields.io/github/stars/your-repo-name?style=social)
-
 **WifiKM** 是一款自主研发的创新型硬件设备，旨在通过 WiFi 网络实现键盘鼠标的远程控制和群体操作。它基于底层硬件驱动开发，具有极高的兼容性和安全性，适用于各种支持键盘鼠标的设备，并提供灵活的自定义开发接口。
 
 无论您是教育工作者、企业 IT 管理员、开发者，还是技术爱好者，WifiKM 都能为您提供高效、稳定的解决方案。
